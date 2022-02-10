@@ -21,12 +21,15 @@
 
 #DONE!!!
 
-#Write a Python program that accepts a word from the user and reverse it
+#Write a Python program that accepts a word from the user and reverses it
 
-#word = input("Write your word here:")
-#print(word)
+#def reversal(input_word):
+#    return input_word [::-1]
+#
+#word = reversal(input("Write your word here: "))
+#print("This word backwards is: " + word)
 
-#???
+#DONE!!!
 
 #Write a Python program to count the number of even and odd numbers from a series of numbers. 
 #Sample numbers : numbers = (1, 2, 3, 4, 5, 6, 7, 8, 9) 
