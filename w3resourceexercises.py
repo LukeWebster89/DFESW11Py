@@ -3,11 +3,10 @@
 # between 1500 and 2700 (both included).
 
 #for i in range(1500,2701):
+#    if (i%7) == 0 and (i%5) == 0:
+#        print (i)
 
-#if (i%7) == 0 and (i%5) == 0:
-#    print (i)
-
-#???
+#DONE!!!
 
 
 #Write a Python program that prints all the numbers from 0 to 6 except 3 and 6.
